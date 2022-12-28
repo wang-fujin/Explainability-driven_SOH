@@ -1,3 +1,13 @@
 # Explainability-driven_SOH
 
-Our code will be published after the paper is accepted.
+This code comes from our paper "Explainability-driven model improvement for SOH estimation of lithium-ion battery".
+Please cite our paper if you find it useful.
+
+@article{wang2022explainability,
+  title={Explainability-driven model improvement for SOH estimation of lithium-ion battery},
+  author={Wang, Fujin and Zhao, Zhibin and Zhai, Zhi and Shang, Zuogang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Reliability Engineering \& System Safety},
+  pages={109046},
+  year={2022},
+  publisher={Elsevier}
+}
